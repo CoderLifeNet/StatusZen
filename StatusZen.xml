@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpStatusCodes>
+    <httpStatusCode>
+        <code>100</code>
+        <description>Continue</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>101</code>
+        <description>Switching Protocols</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>102</code>
+        <description>Processing</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>103</code>
+        <description>Early Hints</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>200</code>
+        <description>OK</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>201</code>
+        <description>Created</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>202</code>
+        <description>Accepted</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>203</code>
+        <description>Non-Authoritative Information</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>204</code>
+        <description>No Content</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>205</code>
+        <description>Reset Content</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>206</code>
+        <description>Partial Content</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>207</code>
+        <description>Multi-Status</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>208</code>
+        <description>Already Reported</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>226</code>
+        <description>IM Used</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>300</code>
+        <description>Multiple Choices</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>301</code>
+        <description>Moved Permanently</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>302</code>
+        <description>Found</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>303</code>
+        <description>See Other</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>304</code>
+        <description>Not Modified</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>305</code>
+        <description>Use Proxy</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>307</code>
+        <description>Temporary Redirect</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>308</code>
+        <description>Permanent Redirect</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>400</code>
+        <description>Bad Request</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>401</code>
+        <description>Unauthorized</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>402</code>
+        <description>Payment Required</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>403</code>
+        <description>Forbidden</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>404</code>
+        <description>Not Found</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>405</code>
+        <description>Method Not Allowed</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>406</code>
+        <description>Not Acceptable</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>407</code>
+        <description>Proxy Authentication Required</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>408</code>
+        <description>Request Timeout</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>409</code>
+        <description>Conflict</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>410</code>
+        <description>Gone</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>411</code>
+        <description>Length Required</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>412</code>
+        <description>Precondition Failed</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>413</code>
+        <description>Payload Too Large</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>414</code>
+        <description>URI Too Long</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>415</code>
+        <description>Unsupported Media Type</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>416</code>
+        <description>Range Not Satisfiable</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>417</code>
+        <description>Expectation Failed</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>418</code>
+        <description>I'm a teapot</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>421</code>
+        <description>Misdirected Request</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>422</code>
+        <description>Unprocessable Entity</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>423</code>
+        <description>Locked</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>424</code>
+        <description>Failed Dependency</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>425</code>
+        <description>Too Early</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>426</code>
+        <description>Upgrade Required</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>428</code>
+        <description>Precondition Required</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>429</code>
+        <description>Too Many Requests</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>431</code>
+        <description>Request Header Fields Too Large</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>451</code>
+        <description>Unavailable For Legal Reasons</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>500</code>
+        <description>Internal Server Error</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>501</code>
+        <description>Not Implemented</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>502</code>
+        <description>Bad Gateway</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>503</code>
+        <description>Service Unavailable</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>504</code>
+        <description>Gateway Timeout</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>505</code>
+        <description>HTTP Version Not Supported</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>506</code>
+        <description>Variant Also Negotiates</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>507</code>
+        <description>Insufficient Storage</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>508</code>
+        <description>Loop Detected</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>510</code>
+        <description>Not Extended</description>
+    </httpStatusCode>
+    <httpStatusCode>
+        <code>511</code>
+        <description>Network Authentication Required</description>
+    </httpStatusCode>
+</httpStatusCodes>
