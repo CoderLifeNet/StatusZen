@@ -1,5 +1,7 @@
 # StatusZen by CoderLife.net
 
+Join us on [Discord](https://discord.gg/btpqdGEHpq)
+
 ## HTTP Status Codes Library
 
 This repository provides a comprehensive list of HTTP status codes and their descriptions, organized for use in various programming languages. Each status code is paired with its corresponding message to provide clear, human-readable context.
