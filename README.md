@@ -15,3 +15,9 @@ You can utilize this library to:
 - Simplify the handling of HTTP responses by using descriptive constants or enums instead of numerical codes.
 - Improve code readability and maintainability by replacing magic numbers with meaningful names.
 - Provide consistent and clear responses in your APIs.
+
+#### Contributing
+We welcome contributions! Please fork this repository and submit pull requests to collaborate on improving this project.
+
+#### Contact
+Authored by Christopher Hacia. Feel free to reach out for collaboration opportunities!
