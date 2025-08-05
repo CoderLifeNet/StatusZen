@@ -22,4 +22,4 @@ You can utilize this library to:
 We welcome contributions! Please fork this repository and submit pull requests to collaborate on improving this project.
 
 #### Contact
-Authored by Christopher Hacia. Feel free to reach out for collaboration opportunities!
+Authored by [Christopher Hacia](https://chrishacia.com). Feel free to reach out for collaboration opportunities!
